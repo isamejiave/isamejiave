@@ -1,0 +1,18 @@
+h1{
+  color: #adad85;
+  font-size: 70px
+}
+h2{
+  color: #000000;
+  font-size: 220px
+}
+ p{
+   color: #000000;
+font-size: 40px
+ }
+ hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%
+ }
